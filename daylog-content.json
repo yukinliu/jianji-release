@@ -24,7 +24,7 @@
     "copyButtonLabel": "复制推荐语"
   },
   "links": {
-    "productGuideLabel": "产品说明",
+    "productGuideLabel": "使用指南",
     "productGuideUrl": "https://my.feishu.cn/docx/DSVodGbRto9IaVxq999cpry2nff",
     "feedbackLabel": "反馈与建议",
     "feedbackUrl": "https://my.feishu.cn/docx/N2OTdIIYoo6aTZx98TAcJavmnte",
@@ -79,9 +79,9 @@
     "愿你的正念练习生长、开花，并在每时每刻、每一天里滋养你的生命。——《多舛的生命》"
   ],
   "release": {
-    "version": "0.2.1",
-    "publishedAt": "2026-10-17",
-    "notes": "新增项目拖拽排序、跨项目事件检索与全天时段；优化事件管理、统计圆环交互及全屏关闭体验。",
+    "version": "0.2.2",
+    "publishedAt": "2026-10-26",
+    "notes": "想法与复盘支持排版；保留Markdown标题层级；复用历史事件；后台下载签名更新，由你选择重启安装。",
     "downloadPageUrl": "https://my.feishu.cn/docx/Vy6cd8dfXoBGe6xddFmc1aPxngG"
   }
 }
