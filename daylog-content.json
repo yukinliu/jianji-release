@@ -79,9 +79,9 @@
     "愿你的正念练习生长、开花，并在每时每刻、每一天里滋养你的生命。——《多舛的生命》"
   ],
   "release": {
-    "version": "0.2.2",
-    "publishedAt": "2026-10-26",
-    "notes": "想法与复盘支持排版；保留Markdown标题层级；复用历史事件；后台下载签名更新，由你选择重启安装。",
+    "version": "0.2.3",
+    "publishedAt": "2026-11-03",
+    "notes": "修复资料库新建与切换，改善启动问候语，并修复 Windows 启动时的黑色窗口。",
     "downloadPageUrl": "https://my.feishu.cn/docx/Vy6cd8dfXoBGe6xddFmc1aPxngG"
   }
 }
