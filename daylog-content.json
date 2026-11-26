@@ -79,8 +79,8 @@
     "愿你的正念练习生长、开花，并在每时每刻、每一天里滋养你的生命。——《多舛的生命》"
   ],
   "release": {
-    "version": "0.3.1",
-    "notes": "Mac 上关闭见己窗口后，再次打开时会检查更新。",
+    "version": "0.3.2",
+    "notes": "记录页的「沉浸书写」入口改用淡色文字，悬停时以主题浅底提示。",
     "downloadPageUrl": "https://my.feishu.cn/docx/Vy6cd8dfXoBGe6xddFmc1aPxngG",
     "publishedAt": "2026-11-26"
   }
