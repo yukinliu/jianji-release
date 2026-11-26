@@ -79,8 +79,8 @@
     "愿你的正念练习生长、开花，并在每时每刻、每一天里滋养你的生命。——《多舛的生命》"
   ],
   "release": {
-    "version": "0.3.0",
-    "notes": "在软件内翻阅冥想手账；记录页支持拖动分栏和沉浸书写。",
+    "version": "0.3.1",
+    "notes": "Mac 上关闭见己窗口后，再次打开时会检查更新。",
     "downloadPageUrl": "https://my.feishu.cn/docx/Vy6cd8dfXoBGe6xddFmc1aPxngG",
     "publishedAt": "2026-11-26"
   }
