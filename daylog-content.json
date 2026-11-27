@@ -79,9 +79,9 @@
     "愿你的正念练习生长、开花，并在每时每刻、每一天里滋养你的生命。——《多舛的生命》"
   ],
   "release": {
-    "version": "0.3.2",
-    "notes": "记录页的「沉浸书写」入口改用淡色文字，悬停时以主题浅底提示。",
+    "version": "0.3.3",
+    "notes": "冥想页左栏随手账更新活动，并合入「100 件小事」。设置页整理文件夹、分享与检查更新，统一桌面排版。",
     "downloadPageUrl": "https://my.feishu.cn/docx/Vy6cd8dfXoBGe6xddFmc1aPxngG",
-    "publishedAt": "2026-11-26"
+    "publishedAt": "2026-11-27"
   }
 }
